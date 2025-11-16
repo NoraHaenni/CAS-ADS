@@ -46,28 +46,22 @@ A refresher on the mathematical concepts relevant to the CAS program, including 
 ## 🔍 Module Summaries
 
 ### **1️⃣ Module 1**
-Focuses on data collection and manipulation and storage and visualization.  
-➡️ [Go to Module 1](module1_data-acquisition-handling/README.md)
+Focuses on data collection and manipulation and storage and visualization. ➡️ [Go to Module 1](module1_data-acquisition-handling/README.md)
 
 ### **2️⃣ Module 2**
-Covers the statistics basics.  
-➡️ [Go to Module 2](module2_statistics/README.md)
+Covers the statistics basics. ➡️ [Go to Module 2](module2_statistics/README.md)
 
 ### **3️⃣ Module 3**
-Covers the machine learning basics.  
-➡️ [Go to Module 3](module3_ML/README.md)
+Covers the machine learning basics. ➡️ [Go to Module 3](module3_ML/README.md)
 
 ### **4️⃣ Module 4**
-Introduces Git and GitHub and overviews IT security and legal aspects of data science.  
-➡️ [Go to Module 4](module4_best-practices-github/README.md)
+Introduces Git and GitHub and overviews IT security and legal aspects of data science. ➡️ [Go to Module 4](module4_best-practices-github/README.md)
 
 ### **5️⃣ Module 5**
-Focuses on consolidation of what has been learned, introduces (peer) review, and plans the final project.
-➡️ [Go to Module 5](module5_consolidation/README.md)
+Focuses on consolidation of what has been learned, introduces (peer) review, and plans the final project. ➡️ [Go to Module 5](module5_consolidation/README.md)
 
 ### **6️⃣ Module 6**
-Focuses on an introduction to neural networks and deep learning.  
-➡️ [Go to Module 6](module6_NN/README.md)
+Focuses on an introduction to neural networks and deep learning. ➡️ [Go to Module 6](module6_NN/README.md)
 
 ---
 
@@ -90,7 +84,7 @@ Focuses on an introduction to neural networks and deep learning.
 ---
 
 ## 🧑‍🏫 Author / Maintainer
-Maintained as part of the CAS-ADS program by **Nora Hänni**.  
-For questions or updates, feel free to reach out or open an issue.
+- Maintained as part of the CAS-ADS program by Nora Hänni.  
+- For questions or updates, feel free to reach out or open an issue.
 ---
 
